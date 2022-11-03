@@ -174,7 +174,10 @@ a:hover {
    order: 2;
    text-align: right;
  }
- 
+ .timeline-block-right .timeline-content {
+   order: 2;
+   text-align: left;
+ }
  .timeline-block-left .marker {
    order: 1;
  }
