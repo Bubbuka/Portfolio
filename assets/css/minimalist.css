@@ -172,7 +172,7 @@ a:hover {
  
  .timeline-block-left .timeline-content {
    order: 2;
-   text-align: right;
+   text-align: left;
  }
  .timeline-block-right .timeline-content {
    order: 2;
