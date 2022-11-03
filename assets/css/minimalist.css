@@ -127,7 +127,7 @@ a:hover {
 }
 
 .timeline-block-left .timeline-content {
-  text-align: left;
+  text-align: right;
 }
 
 .timeline-content .timeline-h3 {
@@ -172,11 +172,11 @@ a:hover {
  
  .timeline-block-left .timeline-content {
    order: 2;
-   text-align: left;
+   text-align: right;
  }
  .timeline-block-right .timeline-content {
    order: 2;
-   text-align: left;
+   text-align: right;
  }
  .timeline-block-left .marker {
    order: 1;
